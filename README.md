@@ -5,7 +5,7 @@ This work builds on a study from [Jia and Zeng (2021) published in Nature Scient
 Experiments conducted for this analysis including dataset generation, feature extraction, modeling, and interpretation can be found in the `experiments.ipynb` notebook.
 
 # Documentation
-A presentation and write-up of this study can be found in the `Presentation.pdf` and `Deep_Learning_for_Identifying_Creative_Modes_of_Thinking_in_EEG_Signals.pdf`, respectively.
+An in-depth write-up can be found in `Paper.pdf`.
 
 # Project Overview
 ![](readme_images/readme_images.003.png)
