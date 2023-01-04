@@ -9,7 +9,6 @@ An in-depth write-up can be found in `Paper.pdf`.
 
 # Project Overview
 ![](readme_images/readme_images.003.png)
-![](readme_images/readme_images.004.png)
 ![](readme_images/readme_images.005.png)
 ![](readme_images/readme_images.006.png)
 ![](readme_images/readme_images.007.png)
